@@ -10,4 +10,8 @@ package mephi.automatic.octo.carnival;
  */
 public class Carnaval {
     
+    
+    public void dance(){
+        System.out.println("Танцуют Все!");
+    }
 }
